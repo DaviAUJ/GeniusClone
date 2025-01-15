@@ -8,7 +8,6 @@ Este projeto fiz em 2022 no recesso de meio de ano do meu terceiro ano do ensino
 
 Resumidamente este jogo a recriação do brinquedo Genius da Estrela, também conhecido como Simon no exterior. Decore a ordem das cores que aparecem até onde você conseguir e tentar juntar a maior quantidade de pontos.
 
-![MainMenu](https://github.com/DaviAUJ/GeniusClone/blob/main/Itch.io%20Images/MainMenu.png)
 ![Game](https://github.com/DaviAUJ/GeniusClone/blob/main/Itch.io%20Images/Game.png)
 
 ## Como jogar
