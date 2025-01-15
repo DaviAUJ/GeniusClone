@@ -11,5 +11,6 @@ Resumidamente este jogo a recriação do brinquedo Genius da Estrela, também co
 ![Game](https://github.com/DaviAUJ/GeniusClone/blob/main/Itch.io%20Images/Game.png)
 
 ## Como jogar
-Você pode baixar pelo github os arquivos da pasta Build para o Windows.
+Você pode baixar pelo github os arquivos para o Windows da pasta Builds.
+
 Ou você pode jogar a versão web no [itch.io](https://plantsx.itch.io/genius-clone)
